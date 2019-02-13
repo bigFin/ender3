@@ -14,7 +14,8 @@
 - M3,M4,M5 screws, better T-slot nuts
 # To do
 - Linear rails
-# Firmware
+# Ender 3 firmware
 - [Marlin firmware bigFin fork](https://github.com/bigFin/Marlin)
 # Octopi image for R Pi 2
+# Cura profiles
 
