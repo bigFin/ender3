@@ -1,4 +1,4 @@
-# Here you can find my custom Ender 3 goodies. 
+# This is my take on the ender 3
 # Hardware upgrades
 ## 3d printable
 - part cooler (herome, 4040 pipes)
