@@ -15,6 +15,6 @@
 # To do
 - Linear rails
 # Firmware
-- [Marlin firmware](https://github.com/bigFin/Marlin)
+- [Marlin firmware bigFin fork](https://github.com/bigFin/Marlin)
 # Octopi image for R Pi 2
 
