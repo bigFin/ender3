@@ -1,18 +1,20 @@
 # Here you can find my custom Ender 3 goodies. 
 # Hardware upgrades
 ## 3d printable
-part cooler - herome, 4040 pipes
-Custom bl-touch mount
-z axis stepper mount for dampers
-fan grill for electronics
-tool box
+- part cooler (herome, 4040 pipes)
+- Custom BL-touch mount
+- z axis stepper mount for dampers
+- fan grill for electronics
+- tool box
 ## Parts
-Stepper dampers
-Dual drive extruder
-Better ptfe tube, connectors
-M3,M4,M5 screws, better T-slot nuts
+- Stepper dampers
+- Dual drive extruder
+- Better ptfe tube, connectors
+- BL-touch
+- M3,M4,M5 screws, better T-slot nuts
 # To do
-Linear rails
-# Marlin firmware 
+- Linear rails
+# Firmware
+- [Marlin firmware](https://github.com/bigFin/Marlin)
 # Octopi image for R Pi 2
 
